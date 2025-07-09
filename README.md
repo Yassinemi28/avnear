@@ -48,7 +48,6 @@ Permettre à un utilisateur de suivre facilement ses indices favoris depuis une 
 ```bash
    git clone https://github.com/Yassinemi28/avnear.git
 ```
-````
 
 2. **Installe les dépendances :**
 
