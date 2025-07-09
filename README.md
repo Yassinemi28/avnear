@@ -23,10 +23,12 @@ Permettre à un utilisateur de suivre facilement ses indices favoris depuis une 
 
 ## 🚀 **Technologies utilisées**
 
-[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)](https://nodejs.org)
-[![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](https://reactjs.org/)
-[![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)](https://tailwindcss.com/)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" width="40" height="40"/>
+</div>
 
 ---
 
@@ -36,23 +38,17 @@ Permettre à un utilisateur de suivre facilement ses indices favoris depuis une 
 
 ```bash
    git clone https://github.com/Yassinemi28/avnear.git
-```
 
 2. **Installe les dépendances :**
 
-```bash
    npm install
-```
 
 3. **Lance le back-end (API Yahoo Finance) :**
 
-```bash
    node src/api/server.js
-```
 
 4. **Lance le front-end (React) :**
 
-```bash
    npm start
 ```
 
