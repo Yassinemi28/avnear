@@ -36,7 +36,6 @@ Permettre à un utilisateur de suivre facilement ses indices favoris depuis une 
 
 1. **Clone le projet :**
 
-```bash
    git clone https://github.com/Yassinemi28/avnear.git
 
 2. **Installe les dépendances :**
@@ -50,7 +49,6 @@ Permettre à un utilisateur de suivre facilement ses indices favoris depuis une 
 4. **Lance le front-end (React) :**
 
    npm start
-```
 
 ---
 
